@@ -1,6 +1,6 @@
 # iWEB
 
- is a JavaScript library for building user interfaces.
+iWEB is a JavaScript library for serious interfaces.
 
 [![Bower version](https://img.shields.io/bower/v/amazeui-react.svg?style=flat-square)](https://github.com/amazeui/amazeui-react)
 [![NPM version](https://img.shields.io/npm/v/amazeui-react.svg?style=flat-square)](https://www.npmjs.com/package/amazeui-react)
