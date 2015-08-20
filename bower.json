@@ -1,0 +1,22 @@
+{
+  "name": "iWEB",
+  "version": "0.0.1",
+  "homepage": "https://github.com/iUAP/iWEB",
+  "authors": [
+    "guoyongfeng <296512521@qq.com>"
+  ],
+  "description": "a serious library for developer",
+  "keywords": [
+    "iuap",
+    "iweb",
+    "ui"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
